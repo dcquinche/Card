@@ -4,7 +4,6 @@ This is a solution to the card component project of the Make It Real course.
 
 
 ## Table of contents
-### Overview
  1. [The challenge](#the-challenge)
  2. [Screenshot](#screenshot)
  3. [My process](#my-process)
@@ -22,8 +21,10 @@ Watch the different display depending on the size of the device (mobile or deskt
 
 ### Screenshot
 
+#### Mobile design
 ![Mobile design](https://github.com/dcquinche/Card/blob/main/design/Mobile.png)
 
+#### Desktop design
 ![Desktop design](https://github.com/dcquinche/Card/blob/main/design/Desktop.png)
 
 
@@ -47,12 +48,12 @@ First we organized the HTML structure for the mobile design, then we added the l
 
 ### Useful resources
 
-[Ordering flex items](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Ordering_Flex_Items) This helped me to know how to change the order of different items for the desktop design.
+[Ordering flex items](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Ordering_Flex_Items) - This helped me to know how to change the order of different items for the desktop design.
 
 
 ### Author
 
-Diana Carolina Quinche Velez
+Diana Carolina Quinche Velez -
 [Linkedin](https://www.linkedin.com/in/diana-carolina-quinche-v%C3%A9lez-06b9791b3/)
 
 
