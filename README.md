@@ -45,6 +45,12 @@ First we organized the HTML structure for the mobile design, then we added the l
 
 - flex direction property to order and display the items as needed.
 
+```
+	display: flex;
+    flex-direction: row-reverse; 
+		
+```
+
 
 ### Useful resources
 
