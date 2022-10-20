@@ -1,6 +1,5 @@
 # Card Component
-Make It Real - Card Component
-This is a solution to the card component project of the Make It Real course.
+Make It Real - This is a solution to the Stats Preview Card Component Project of the Make It Real course.
 
 
 ## Table of contents
@@ -12,6 +11,7 @@ This is a solution to the card component project of the Make It Real course.
  6. [Useful resources](#useful-resources)
  7. [Author](#author)
  8. [Acknowledgments](#acknowledgments)
+
 
 ### The challenge
 
@@ -46,15 +46,23 @@ First we organized the HTML structure for the mobile design, then we added the l
 - flex direction property to order and display the items as needed.
 
 ```
-	display: flex;
-    flex-direction: row-reverse; 
+ display: flex;
+ flex-direction: row-reverse; 
 		
+```
+- filter property to change the color of the image.
+
+```
+ filter: opacity(0.6) drop-shadow(0 0 0 hsl(277, 64%, 61%));	
+
 ```
 
 
 ### Useful resources
 
-[Ordering flex items](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Ordering_Flex_Items) - This helped me to know how to change the order of different items for the desktop design.
+[Flex Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Ordering_Flex_Items) - This helped me to know how to change the order of different items for the desktop design.
+
+[Filter Properties](https://www.w3schools.com/cssref/css3_pr_filter.asp) - This helped me to know how to change the color of the image.
 
 
 ### Author
